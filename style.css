@@ -1,36 +1,25 @@
-body{
-    background-image:url("background.png");
-    background-repeat:no-repeat ;
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
-.light_color{
-    color: white;
+.light_color {
+    color: #c9faf0;
 }
-/*--------------star animation--------------------*/
 
-
-#title {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    color: #fff;
+.gif_div {
+    padding-top: 125px;
     text-align: center;
-    font-family: Lato;
-    font-weight: 300;
-    font-size: 50px;
-    letter-spacing: 10px;
-    margin-top: -60px;
-    padding-left: 10px;
 }
 
-#title span {
-    background: -webkit-linear-gradient(white, #dee2e7);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.gif{
+    border-color: #c9faf0;
+    border-radius: 220px;
 }
+
+/*--------------star animation--------------------*/
 
 #stars {
     width: 1px;
