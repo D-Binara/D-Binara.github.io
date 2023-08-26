@@ -17,6 +17,10 @@ body {
     text-align: center;
 }
 
+.git_link{
+    text-decoration:none
+}
+
 .gif{
     border-color: #c9faf0;
     border-radius: 20px;
