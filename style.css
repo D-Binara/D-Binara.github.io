@@ -9,10 +9,13 @@ body {
     color: #c9faf0;
 }
 
-/*.gif_div {
-    padding-top: 75px;
+.gif_div {
+    padding-top: 55px;
+}
+
+.click{
     text-align: center;
-}*/
+}
 
 .gif{
     border-color: #c9faf0;
