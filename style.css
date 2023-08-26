@@ -1,5 +1,5 @@
 body {
-    background-image: url("background.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -28,8 +28,8 @@ body {
 }
 
 .position_click{
-    margin-left: 850px;
-    margin-right: 850px;
+    padding-left: 45%;
+    padding-right: 45%;
     margin-bottom: 25px;
 }
 
