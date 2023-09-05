@@ -23,7 +23,7 @@ body {
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 .click:hover {
-    box-shadow: inset 300px 0 0 0 #54b3d6;
+    box-shadow: inset 350px 0 0 0 #54b3d6;
     color: white;
 }
 
@@ -40,6 +40,10 @@ body {
 .gif{
     border-color: #c9faf0;
     border-radius: 20px;
+}
+
+.button_Dont{
+    text-align: center;
 }
 
 
